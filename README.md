@@ -6,17 +6,24 @@
 
 ## 📋 Fonctionnalités
 ✔️ **Modes de jeu variés** : Support de la variante de base et de la variante tactique.
+
 ✔️ **Paramétrage des joueurs** : Ajout de joueurs humains et IA avec différents niveaux de difficulté.
+
 ✔️ **Gestion des règles** : Vérification des revendications des bornes et détermination du gagnant.
+
 ✔️ **Architecture modulaire** : Possibilité d’ajouter facilement de nouvelles variantes et IA.
+
 ✔️ **Interface console** : Représentation textuelle du jeu pour faciliter l’interaction.
+
 ✔️ **Tests unitaires** : Validation des mécaniques du jeu avec JUnit.
 
 ---
 
 ## 🔧 Prérequis
 📌 **JDK** : Java 11+
+
 📌 **Outils** : `Maven` ou `Gradle` (gestion des dépendances et compilation)
+
 📌 **Bibliothèques** : `JUnit` pour les tests unitaires
 
 ---
